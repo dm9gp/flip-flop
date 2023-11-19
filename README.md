@@ -32,6 +32,8 @@ Example values:
 
 you can choose LEDs of any color.
 
+Jumpers are optional. Use them for picking up the square waves and displaying them on an oscilloscope.
+
 This work is dedicated to the public domain. 
 
 
