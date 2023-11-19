@@ -15,9 +15,10 @@ Parts required to make the flip-flop circuit are:
 2x 470 Ohm resitors;
 2x 100 kOhm resistors;
 2x BC547 transistors;
-(3x Jumpers are optional)
+(3x Jumpers are optional);
+(1x Screw Terminal with 2 pins is optional);
 
-you will also need print yourself or have the circuit board printed for you for a fee, 
+you will also need print by yourself or have the circuit board printed for you (for a fee), 
 for example by uploading the .fzz file to https://aisler.net/
 
 Q1 and Q2 are the BC547 transitor.
