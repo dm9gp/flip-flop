@@ -13,7 +13,7 @@ Parts required to make the flip-flop circuit are:
 2x 10 μF capacitors;
 2x 470 Ohm resitors;
 2x 100 kOhm resistors;
-2x BC547 transistors.
+2x BC547 transistors;
 
 You will also need print yourself or have the circuit board printed for you for a fee, 
 for example by uploading the .fzz file to https://aisler.net/
@@ -27,7 +27,7 @@ The blinking interval is determined by the values of the two 100kOhm resistors a
 Example values:
 100 kOhm x 10 μF = 1.0s;
  10 kOhm x 10 μF = 0.1s;
-100 kOhm x  1 μF = 0.1s.
+100 kOhm x  1 μF = 0.1s;
 
 You can choose LEDs of any color.
 
