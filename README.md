@@ -7,7 +7,7 @@
 
 Astable Flip-Flop Circuit PCB.
 View the attached images or 
-open in Fritzing SW from https://fritzing.org/ to view the schematics, inspect or modifiy the circuit.
+open .fzz file in "Fritzing" from https://fritzing.org/ to view the schematics, inspect or modifiy the circuit.
 
 Parts required to make the flip-flop circuit are:
 2x LEDs;
@@ -18,7 +18,7 @@ Parts required to make the flip-flop circuit are:
 (3x Jumpers are optional);
 (1x Screw Terminal with 2 pins is optional);
 
-you will also need print by yourself or have the circuit board printed for you (for a fee), 
+you will also need print by yourself or have the circuit board printed professionally for you, 
 for example by uploading the .fzz file to https://aisler.net/
 
 Q1 and Q2 are the BC547 transitor.
