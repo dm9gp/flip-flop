@@ -31,7 +31,7 @@ Example values:
 
 you can choose LEDs of any color.
 
- This work is dedicated to the public domain. 
+This work is dedicated to the public domain. 
 
 
 
