@@ -6,7 +6,8 @@
 
 
 Astable Flip-Flop Circuit PCB.
-Open in Fritzing to view the schematics, inspect or modifiy the circuit.
+View the attached images or 
+open in Fritzing SW from https://fritzing.org/ to view the schematics, inspect or modifiy the circuit.
 
 Parts required to make the flip-flop circuit are:
 2x LEDs;
