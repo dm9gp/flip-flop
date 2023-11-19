@@ -15,7 +15,7 @@ Parts required to make the flip-flop circuit are:
 2x 100 kOhm resistors;
 2x BC547 transistors;
 
-You will also need print yourself or have the circuit board printed for you for a fee, 
+you will also need print yourself or have the circuit board printed for you for a fee, 
 for example by uploading the .fzz file to https://aisler.net/
 
 Q1 and Q2 are the BC547 transitor.
@@ -29,7 +29,7 @@ Example values:
  10 kOhm x 10 μF = 0.1s;
 100 kOhm x  1 μF = 0.1s;
 
-You can choose LEDs of any color.
+you can choose LEDs of any color.
 
 
 
