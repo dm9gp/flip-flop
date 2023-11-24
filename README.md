@@ -1,6 +1,6 @@
 # flip-flop
 # astable
-# astable flip-flop
+# multivibrator
 # fritzing 
 # PCB
 
