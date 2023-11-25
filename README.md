@@ -22,8 +22,8 @@ you will also need print by yourself or have the circuit board printed professio
 for example by uploading the .fzz file to https://aisler.net/
 
 Q1 and Q2 are the BC547 transitor.
-Alternatilvy the equivalent 2N2222A can be used, it has slightly more gain than the BC547.
-However, the 2N2222A will have to be mounted rotated 180 degrees as it's pin out is the other way round than that of the BC547.
+I haven't tried the 2N3904 or 2N2222A transistors here. 
+Note the transistor's pin layout before trying a different one.
 
 The blinking interval is determined by the values of the two 100kOhm resistors and that of the two capacitors as per the formula: T = R x C
 
