@@ -17,7 +17,7 @@ Parts required to make the flip-flop circuit are:
 (3x Jumpers are optional);
 (1x Screw Terminal with 2 pins is optional);
 
-you will also need print by yourself or have the circuit board printed professionally for you, 
+you may also want to print the PCB by yourself or have the circuit board printed professionally for you, 
 for example by uploading the .fzz file to https://aisler.net/
 
 Q1 and Q2 are the BC547 transitor.
