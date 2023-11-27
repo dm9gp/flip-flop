@@ -6,7 +6,7 @@
 
 Astable Multivibrator Circuit PCB.
 View the attached images or 
-open .fzz file in "Fritzing" from https://fritzing.org/ to view the schematics, inspect or modifiy the circuit.
+open .fzz file in "Fritzing" from https://fritzing.org/ to view the schematics, inspect or modify the circuit.
 
 Parts required to make the flip-flop circuit are:
 2x LEDs;
