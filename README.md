@@ -35,6 +35,11 @@ you can choose LEDs of any color.
 
 Jumpers are optional. Use them for picking up the square waves and displaying them on an oscilloscope.
 
+P.S.
+Although Flip-Flop would really be another name for a Bistable Multivibrator, it seems widespreadly used as a synonym for the Astable Multivibrator.
+
+"Multivibrator" because its output waveform is rich in harmonics.
+
 This work is dedicated to the public domain. 
 
 
