@@ -12,6 +12,7 @@ Although Flip-Flop would really be another name for a Bistable Multivibrator, it
 
 
 
+
 GET STARTED:
 
 Review the attached images or 
@@ -21,6 +22,7 @@ To make the circuit, you will need a Breadboard or print the PCB file (in the la
 or have the PCB printed for you, the PCB file is in "Fritzing" format .fzz. 
 You can open it in "Fritzing" (https://fritzing.org/) to first check it, 
 modify it and then have it printed by a PCB printing service of your choice such as AISLER (https://aisler.net/) if you wish.
+
 
 
 PARTS REQUIRED:
@@ -37,6 +39,7 @@ Parts required to make the flip-flop circuit are:
 
 you may also want to print the PCB by yourself or have the circuit board printed professionally for you, 
 for example by uploading the .fzz file to https://aisler.net/
+
 
 
 
@@ -57,6 +60,7 @@ Example values:
 you can choose LEDs of any color.
 
 Jumpers are optional. Use them for picking up the square waves and displaying them on an oscilloscope.
+
 
 
 
