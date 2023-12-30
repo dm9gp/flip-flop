@@ -13,9 +13,6 @@ Although Flip-Flop would really be another name for a Bistable Multivibrator, it
 
 GET STARTED:
 
-Review the attached images or 
-open .fzz file in "Fritzing" from https://fritzing.org/.
-
 To make the circuit, you will need a Breadboard or print the PCB file (in the latest version) 
 or have the PCB printed for you, the PCB file here is in "Fritzing" format .fzz. 
 You can open it in "Fritzing" (https://fritzing.org/) to first check it, 
