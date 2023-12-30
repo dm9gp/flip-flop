@@ -38,7 +38,9 @@ Q1 and Q2 are the BC547 transitor.
 I haven't tried the 2N3904 or 2N2222A transistors here. 
 Note the transistor's pin layout before trying a different one.
 
-The blinking interval is determined by the values of the two 100kOhm resistors and that of the two capacitors as per the formula: T = R x C
+The blinking interval is determined by the values of the two 100kOhm resistors and that of the two capacitors as per the formula: 
+
+	T = R x C
 
 Example values:
 
