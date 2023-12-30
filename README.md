@@ -11,13 +11,13 @@ open .fzz file in "Fritzing" from https://fritzing.org/ to view the schematics, 
 See it in action in this video: https://www.youtube.com/watch?v=wZovhqsylgY
 
 Parts required to make the flip-flop circuit are:
-2x LEDs;
-2x 10 μF capacitors;
-2x 470 Ohm resitors;
-2x 100 kOhm resistors;
-2x BC547 transistors;
-(3x Jumpers are optional);
-(1x Screw Terminal with 2 pins is optional);
+ 2x LEDs;
+ 2x 10 μF capacitors;
+ 2x 470 Ohm resitors;
+ 2x 100 kOhm resistors;
+ 2x BC547 transistors;
+ (3x Jumpers are optional);
+ (1x Screw Terminal with 2 pins is optional);
 
 you may also want to print the PCB by yourself or have the circuit board printed professionally for you, 
 for example by uploading the .fzz file to https://aisler.net/
