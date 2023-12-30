@@ -5,7 +5,10 @@
 
 
 Astable Multivibrator Circuit PCB.
+See it in action in this video: https://www.youtube.com/watch?v=wZovhqsylgY
 
+Although Flip-Flop would really be another name for a Bistable Multivibrator, it seems widespreadly used as a synonym for the Astable Multivibrator.
+"Multivibrator" because it outputs waveforms that are rich in harmonics.
 
 
 GET STARTED:
@@ -13,13 +16,8 @@ GET STARTED:
 Review the attached images or 
 open .fzz file in "Fritzing" from https://fritzing.org/ to view the schematics, inspect or modify the circuit.
 
-See it in action in this video: https://www.youtube.com/watch?v=wZovhqsylgY
 
-Although Flip-Flop would really be another name for a Bistable Multivibrator, it seems widespreadly used as a synonym for the Astable Multivibrator.
-"Multivibrator" because it outputs waveforms that are rich in harmonics.
-
-
-PARTS REQIIRED:
+PARTS REQUIRED:
 
 Parts required to make the flip-flop circuit are:
 
