@@ -11,10 +11,12 @@ Although Flip-Flop would really be another name for a Bistable Multivibrator, it
 "Multivibrator" because it outputs waveforms that are rich in harmonics.
 
 
+
 GET STARTED:
 
 Review the attached images or 
 open .fzz file in "Fritzing" from https://fritzing.org/ to view the schematics, inspect or modify the circuit.
+
 
 
 PARTS REQUIRED:
@@ -31,6 +33,7 @@ Parts required to make the flip-flop circuit are:
 
 you may also want to print the PCB by yourself or have the circuit board printed professionally for you, 
 for example by uploading the .fzz file to https://aisler.net/
+
 
 
 THE CIRCUIT:
@@ -50,6 +53,7 @@ Example values:
 you can choose LEDs of any color.
 
 Jumpers are optional. Use them for picking up the square waves and displaying them on an oscilloscope.
+
 
 
 LICENSE:
