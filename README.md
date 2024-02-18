@@ -17,7 +17,7 @@ To make the circuit, you will need a Breadboard or print the PCB file (in the la
 or have the PCB printed for you, the PCB file here is in "Fritzing" format .fzz. 
 You can open it in "Fritzing" (https://fritzing.org/) to first check it, 
 modify it and then have it printed by a PCB printing service of your choice such as AISLER (https://aisler.net/) if you wish.
-The file "Astable Flip-Flop Circuit 2023-12-06.zip" contains the same but in Gerber format.
+The file "Astable Flip-Flop Circuit 2023-12-06 Gerber.zip" contains the same but in Gerber format.
 
 
 PARTS REQUIRED:
